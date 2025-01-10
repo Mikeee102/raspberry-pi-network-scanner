@@ -1,0 +1,8 @@
+python-nmap
+requests
+reportlab
+paramiko
+asyncssh
+asyncio
+termcolor
+argparse
